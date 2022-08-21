@@ -1,4 +1,16 @@
 # Modify this portfolio
 
-Things are working against me this week.  Tons of problems with GitHub.  GitHub issues, really? Just my week. I'm checkpointing this after Step 2.  I'm taking tomorrow off to spend time with family. And if I have extra time, I'm updating my LinkedIn to seeking so I can get out of Code Fellows and into the Industry. Given this week I don't anticipate being able to meet the 90% passing criteria to maintain my scholarships. 
+Number and name of feature: Lab: Class 05
+
+Estimate of time needed to complete: 1 day
+
+Start time: 12:00 pm MST Saturday
+
+Finish time: 8:15 pm MST
+
+Actual time needed to complete: 4:30 hours
+
+Netlify Deployed Production Site. 
+
+https://sue-young-portfolio.netlify.app/
 
