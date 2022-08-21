@@ -1,7 +1,7 @@
 # Modify this portfolio
 
 Make it your own! 
-Dasmn
-fuck you
+
+Thanks David!
 # lab5
 # lab5
